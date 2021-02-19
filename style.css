@@ -1,0 +1,356 @@
+html {
+}	
+
+body {
+	background-color: rgb(255, 255, 240);
+}
+
+header {
+	display: block;
+
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	background-color: rgb(0, 190, 255);
+	text-align: center;
+	border-radius: 15px;
+}
+
+
+#sponzorji {
+	background-color: rgb(0, 128, 255);
+	border-radius: 15px;
+
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#sponzorji ul {
+	list-style: none;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: baseline;
+}
+
+#sponzorji ul li img {
+	width: 75px;
+}
+
+#menu {
+	background-color: rgb(255, 170, 0);
+	border-radius: 15px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#menu a {
+	background: linear-gradient(rgb(255, 255, 0), rgb(225, 225, 0), rgb(255, 255, 0));
+	border-radius: 10px;
+
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	cursor: pointer;
+}
+
+#menu a:hover {
+}
+
+#menu a:active {
+	background: linear-gradient(rgb(100, 240, 30), rgb(100, 200, 30), rgb(100, 240, 30));
+}
+
+nav {
+}
+
+nav ul {
+	list-style: none;
+
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	display: none;
+}
+
+nav ul li {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: black;
+
+	background: linear-gradient(rgb(255, 180, 50), rgb(255, 160, 30), rgb(255, 180, 50));
+	border-radius: 10px;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+nav ul li a:hover {
+	color: black;
+	background: linear-gradient(rgb(255, 255, 0), rgb(225, 225, 0), rgb(255, 255, 0));
+}
+
+nav ul li a:active {
+	color: black;
+	background: linear-gradient(rgb(100, 240, 30), rgb(100, 200, 30), rgb(100, 240, 30));
+}
+
+#l1 {padding-right: 142px;}
+#l2 {padding-right: 83px;}
+#l3 {padding-right: 58px;}
+#l4 {padding-right: 20px;}
+#l5 {padding-right: 117px;}
+#l6 {padding-right: 111px;}
+#l7 {padding-right: 194px;}
+#l8 {padding-right: 194px;}
+#l9 {padding-right: 205px;}
+#l10 {padding-right: 196px;}
+#l11 {padding-right: 212px;}
+
+#Mod {
+	clear: both;
+	max-width: 900px;
+	margin: auto;
+}
+
+#t1 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	max-width: 1250px;
+	background-color: rgb(174, 255, 153);
+	border-radius: 15px;
+}
+
+#t2 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	max-width: 1250px;
+	background-color: rgb(255, 153, 153);
+	border-radius: 15px;
+}
+
+#t2 a {
+	text-decoration: none;
+	color: black;
+
+	background: linear-gradient(rgb(200, 200, 200), rgb(160, 160, 160), rgb(200, 200, 200));
+	border-radius: 10px;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#t2 a:active {
+	background: linear-gradient(rgb(230, 230, 230), rgb(200, 200, 200), rgb(230, 230, 230));
+}
+
+#t3 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: 0px;
+
+	max-width: 1250px;
+	background-color: rgb(100, 180, 255);
+	border-radius: 15px;
+}
+
+#t4 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	max-width: 1250px;
+	background-color: rgb(255, 255, 150);
+	border-radius: 15px;
+}
+
+#t5 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	max-width: 1250px;
+	background-color: rgb(150, 255, 255);
+	border-radius: 15px;
+}
+
+#t6 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	max-width: 1250px;
+	background-color: rgb(220, 180, 120);
+	border-radius: 15px;
+}
+
+#t7 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: 0px;
+
+	max-width: 1250px;
+	background-color: rgb(180, 120, 180);
+	border-radius: 15px;
+}
+
+#t8 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	max-width: 1250px;
+	background-color: rgb(255, 230, 0);
+	border-radius: 15px;
+}
+
+#t9 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	max-width: 1250px;
+	background-color: rgb(110, 130, 255);
+	border-radius: 15px;
+}
+
+#t10 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+
+	max-width: 1250px;
+	background-color: rgb(160, 110, 30);
+	border-radius: 15px;
+}
+
+#t11 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: 0px;
+
+	max-width: 1250px;
+	background-color: rgb(120, 200, 120);
+	border-radius: 15px;
+}
