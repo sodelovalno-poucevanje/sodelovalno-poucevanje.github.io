@@ -357,7 +357,7 @@ nav ul li a:active {
 }
 
 #t10 ul li {
-	float: left;
+        float: left;
 
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -366,7 +366,7 @@ nav ul li a:active {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	margin-left: 10px;
-	margin-right: 10px
+	margin-right: 10px;
 }
 
 #t11 {
